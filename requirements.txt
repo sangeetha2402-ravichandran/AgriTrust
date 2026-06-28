@@ -1,0 +1,12 @@
+streamlit
+torch
+torchvision
+timm
+pillow
+scikit-learn==1.6.1
+joblib
+numpy
+pandas
+plotly
+reportlab
+opencv-python
